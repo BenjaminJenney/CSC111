@@ -1,0 +1,25 @@
+Script started on 2018-09-25 13:12:28-0400
+]0;benjamin@smashCan: ~/Desktop/cpp/Lab3[01;32mbenjamin@smashCan[00m:[01;34m~/Desktop/cpp/Lab3[00m$ ./icecream
+Please enter number of deLIGHTful single scoops sold: 220
+Please enter number of deLIGHTful double scoops sold: 414
+Please enter number of deLIGHTful triple scoops sold: 66
+
+----------------------------------------
+DeLIGHTful cones        220   $ 327.80
+Double DeLIGHT cones    414   $1030.86
+Triple DeLIGHT cones     66   $ 230.34
+Total                   700   $1589.00
+]0;benjamin@smashCan: ~/Desktop/cpp/Lab3[01;32mbenjamin@smashCan[00m:[01;34m~/Desktop/cpp/Lab3[00m$ ./icecream
+Please enter number of deLIGHTful single scoops sold: 100
+Please enter number of deLIGHTful double scoops sold: 200
+Please enter number of deLIGHTful triple scoops sold: 50
+
+----------------------------------------
+DeLIGHTful cones        100   $ 149.00
+Double DeLIGHT cones    200   $498.00
+Triple DeLIGHT cones     50   $ 174.50
+Total                   350   $821.50
+]0;benjamin@smashCan: ~/Desktop/cpp/Lab3[01;32mbenjamin@smashCan[00m:[01;34m~/Desktop/cpp/Lab3[00m$ exit
+exit
+
+Script done on 2018-09-25 13:13:54-0400
